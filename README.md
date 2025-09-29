@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 Environmental Science Student | 🌍 Interested in GIS & Remote Sensing | 💻 Learning data visualization  
 <!--
 **Okiki-ea/okiki-ea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
